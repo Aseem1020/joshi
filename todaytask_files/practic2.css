@@ -1,0 +1,17 @@
+.aseem p{
+    background-color: blue;
+    color: bisque;
+
+}
+.child > p{
+    background-color: blueviolet;
+    color: bisque;
+}
+.Ram + p{
+    background-color: brown;
+    color: bisque;
+}
+.seeta ~ p{
+    background-color: chartreuse;
+    color: bisque;
+}
